@@ -1,5 +1,3 @@
-# electrical-engineer-toolkit
-An open-source toolkit for electrical engineering, power electronics, embedded systems, and industrial automation.
 Electrical Engineer Toolkit
 
 An open-source engineering toolkit for electrical calculations, power electronics, embedded systems, and industrial automation.
