@@ -38,4 +38,4 @@ def calculate(voltage=None, current=None, resistance=None):
         "current": current,
         "resistance": resistance,
         "power": power,
-  }
+    }
